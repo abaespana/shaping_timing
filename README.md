@@ -1,5 +1,5 @@
 # shaping_timing
-This app trains the user to measure time accurately using differential reinforcement following a percentile shaping formula (Galbicka, 1994)
+This app trains the user to measure time accurately using differential reinforcement following a percentile shaping formula (Galbicka, 1994). Code created by Dr. Virués Ortega for teaching and research purposes. 
 
 # Percentile Shaping Timing Task
 
